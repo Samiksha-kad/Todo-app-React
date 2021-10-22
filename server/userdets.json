@@ -1,0 +1,36 @@
+{
+  "userdetails": [
+    {
+      "id": 1,
+      "name": "A",
+      "lastname": "a",
+      "password": "Abc@123",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "B",
+      "lastname": "b",
+      "password": "Bcd@123",
+      "email": "bcd@gmail.com"
+    },
+    {
+      "password": "Samiksha@123",
+      "email": "samiksha.kad@neosoftmail.com",
+      "name": "samiksha",
+      "lname": "kad",
+      "username": "sami1",
+      "age": "23",
+      "id": 4
+    },
+    {
+      "password": "Akansha@123",
+      "email": "kadakansha@gmail.com",
+      "name": "akansha",
+      "lname": "kad",
+      "username": "sami1",
+      "age": null,
+      "id": 5
+    }
+  ]
+}
